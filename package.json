@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-rp",
+  "version": "1.0.0",
+  "description": "Testing Node JS ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riazahmedsg/RP-NodeJS2.git"
+  },
+  "author": "Riazahmedsg <riazahmedsg@iconixvav.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riazahmedsg/RP-NodeJS2/issues"
+  },
+  "homepage": "https://github.com/riazahmedsg/RP-NodeJS2#readme",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">= 10.7.0",
+    "npm": ">= 6.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.5.6"
+  }
+}
